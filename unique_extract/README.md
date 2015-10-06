@@ -7,3 +7,4 @@ The script will function ot extract the unqiie values from a colum from a csv fi
 ## List of Dependencies
 BASH Shell
 Terminal
+Added by Tara!!!
